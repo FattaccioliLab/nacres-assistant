@@ -85,6 +85,12 @@ Column G is pre-filled with Claude's suggestion. Correct it directly in the cell
 
 ## NACRES codes reference
 
+The official and up-to-date nomenclature is maintained by the **Amue** (Agence de mutualisation des universités et établissements) and is updated yearly:
+
+🔗 [Nomenclature NACRES — Amue (documentation officielle)](https://www.amue.fr/finances/metier/dossier-nacres/documentation/)
+
+The table below lists the codes most commonly encountered in a research lab, for quick reference:
+
 | Code | Category |
 |------|----------|
 | NA.10 | Verrerie et consommables plastique |
