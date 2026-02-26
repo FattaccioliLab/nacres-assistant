@@ -1,0 +1,8 @@
+# Ignore any local notes or test files
+*.local
+*.tmp
+test_*.gs
+
+# No credentials should ever be committed
+.env
+secrets.*
