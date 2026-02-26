@@ -156,8 +156,4 @@ To add or refine NACRES codes in the prompt, edit the `buildSystemPrompt()` func
 
 ## License
 
-MIT — free to use, adapt, and share.
-
----
-
-*Developed at [Institut Pierre-Gilles de Gennes](https://www.ipgg.espci.fr), Paris. Contributions welcome.*
+GNU
